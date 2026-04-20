@@ -1,5 +1,7 @@
 # active-solidarity
 
+Live page: <https://zhiganov.github.io/active-solidarity/>
+
 A working space for exploring what it would look like to act — concretely, at the scale available to us — in the face of what may or may not be a metacrisis. The framing is held as a working hypothesis, not as settled diagnosis; the question of how to live and organise *regardless* is what this sits on top of.
 
 The repo is a monorepo with two tracks:
