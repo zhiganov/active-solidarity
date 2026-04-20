@@ -1,0 +1,19 @@
+# transcripts and raw source material — never commit
+transcripts/
+*.transcript.md
+*.transcript.txt
+*.vtt
+*.srt
+
+# env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+*.swp
