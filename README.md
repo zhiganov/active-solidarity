@@ -17,6 +17,10 @@ Seeded from a conversation between Artem Zhiganov and Viktor Shiryaev on 20 Apri
 
 Early and provisional. Nothing here is a finished position. A live thinking-space, not a publication.
 
+## Contribute
+
+Maintained by Artem Zhiganov as a personal thinking space; disagreements are resolved by conversation or fork. See [CONTRIBUTING.md](./CONTRIBUTING.md) for concrete ways to engage, or use [GitHub Discussions](https://github.com/zhiganov/active-solidarity/discussions) for open-ended conversation.
+
 ## License
 
 Content is licensed under [CC BY-SA 4.0](./LICENSE). Share, adapt, credit, share alike.
