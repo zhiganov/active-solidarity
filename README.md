@@ -1,19 +1,19 @@
 # active-solidarity
 
-A working space for exploring **active solidarity** in the face of the metacrisis — drawing on commons traditions, contemplative practice, and concrete offline gatherings.
+A working space for exploring what it would look like to act — concretely, at the scale available to us — in the face of what may or may not be a metacrisis. The framing is held as a working hypothesis, not as settled diagnosis; the question of how to live and organise *regardless* is what this sits on top of.
 
-This is a monorepo with two tracks:
+The repo is a monorepo with two tracks:
 
-- **[research/](./research)** — notes, references, and source material on the ideas this sits on top of (commons, Buddhist utopian communities, Climate Fresk, metacrisis discourse, governance).
-- **[concept/](./concept)** — living documents describing the emerging shape of a community or practice — principles, shared practices, invitations.
+- **[research/](./research)** — notes and source material: commons and mutualism, the metacrisis debate (including its critics), principle-based organisations, neurophenomenology, contemplative traditions, offline community forms, facilitation patterns.
+- **[concept/](./concept)** — living documents on an emerging form: a "quasi-order" in Viktor's phrasing — shared principles, shared practices, a commons — with Buddhist-philosophical grounding translated into contemporary language.
 
 ## Origin
 
-Seeded from a conversation between Artem Zhiganov and Viktor Shiryaev on 2026-04-20 about responding to the metacrisis through solidarity-based offline community. See [docs/origin.md](./docs/origin.md).
+Seeded from a conversation between Artem Zhiganov and Viktor Shiryaev on 20 April 2026. What was actually said — threads, frames, references, commitments — is in **[docs/origin.md](./docs/origin.md)**.
 
 ## Status
 
-Early. Nothing here is a finished position — it's a space for thinking out loud.
+Early and provisional. Nothing here is a finished position. A live thinking-space, not a publication.
 
 ## License
 
