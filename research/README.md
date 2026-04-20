@@ -45,7 +45,9 @@ The repo treats metacrisis as a hypothesis to probe, not as established fact.
 
 ## Japanese Buddhist utopian communities
 
-Early-20th-century quasi-Buddhist communities — not monastic, not sect-bound, but principled and practice-based. These are a structural reference for the "Sōka Gakkai in a new key" form. Viktor has partially read a *Utopian…* book by a Buddhologist on this; exact title pending.
+Early-20th-century quasi-Buddhist communities — not monastic, not sect-bound, but principled and practice-based. These are a structural reference for the "Sōka Gakkai in a new key" form.
+
+- ***A Buddha Land in This World: Philosophy, Utopia, and Radical Buddhism*** — open-access monograph on JSTOR ([j.ctv2gz3zt3](https://www.jstor.org/content/oa_book_monograph/j.ctv2gz3zt3)). Shared by Viktor 2026-04-20 as the reference he had partly read.
 
 ## Offline community forms
 
