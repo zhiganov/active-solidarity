@@ -20,3 +20,6 @@ Thumbs.db
 
 # local-only agent guidance
 CLAUDE.md
+
+# local-only session process notes
+docs/process-notes.md
