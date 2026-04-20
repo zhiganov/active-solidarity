@@ -2,6 +2,10 @@
 
 This is a personal thinking space. Contributions are welcome, but the bar is alignment with the premise, not completeness or polish.
 
+## Code of Conduct
+
+This project adopts the [Contributor Covenant v2.1](./CODE_OF_CONDUCT.md). By participating — via Issues, PRs, Discussions, or otherwise — you agree to uphold it. Report unacceptable behaviour to artem.zhiganov@newspeak.house.
+
 ## Ways to engage
 
 - **Add a reference** — PR a thinker, book, organisation, or practice into `research/README.md` with a one-line note on why.
