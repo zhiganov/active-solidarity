@@ -5,6 +5,11 @@ transcripts/
 *.vtt
 *.srt
 
+# raw conversation exports (Telegram, audio, derived transcripts)
+docs/ChatExport_*/
+*.ogg
+transcript.txt
+
 # env
 .env
 .env.*
@@ -23,3 +28,6 @@ CLAUDE.md
 
 # local-only session process notes
 docs/process-notes.md
+
+# local-only private notes (people, pipeline, anything not for a public repo)
+docs/private-notes.md

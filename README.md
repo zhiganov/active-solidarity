@@ -2,16 +2,14 @@
 
 Live page: <https://zhiganov.github.io/active-solidarity/>
 
-A working space for exploring what it would look like to act — concretely, at the scale available to us — in the face of what may or may not be a metacrisis. The framing is held as a working hypothesis, not as settled diagnosis; the question of how to live and organise *regardless* is what this sits on top of.
+A working space for **Attention Commons** — the idea that attention is a shared resource being enclosed by the attention economy, and that there is a counter-tradition which holds the *wisdom about attention* as something to be tended in common rather than sold.
 
-One emerging public frame for this work is **Culture of Attention**: a practical and philosophical project for cultivating attention in individuals, groups, communities, and institutions. In this frame, **Attention Commons** names the shared ground underneath the work: attention as a common good, a public resource, and a field of practice that can be stewarded rather than merely extracted or privatized.
-
-This may become the umbrella for existing educational work currently gathered around active presence training: not a separate initiative so much as a re-articulation of the same work in broader language.
+This sits inside a broader frame, **Culture of Attention (Культура внимания)**: a practical and philosophical project for cultivating attention in individuals, groups, communities, and institutions — attention as one continuous field, from biology and the body to contemplative liberation, with the attention economy and the distraction industry at one end and practices of awakening at the other. It may become the umbrella for the educational work currently gathered around active presence training — a re-articulation in broader language, not a separate initiative. The original "active solidarity / metacrisis" seed survives as one thread within this (via Rufus Pollock's "scaling up solidarity, scaling down systems") — the repo keeps its name, but the centre of gravity has moved to attention.
 
 The repo is a monorepo with two tracks:
 
-- **[research/](./research)** — notes and source material: commons and mutualism, the metacrisis debate (including its critics), principle-based organisations, neurophenomenology, contemplative traditions, offline community forms, facilitation patterns.
-- **[concept/](./concept)** — living documents on an emerging form: a "quasi-order" in Viktor's phrasing — shared principles, shared practices, a commons — with Buddhist-philosophical grounding translated into contemporary language.
+- **[research/](./research)** — notes and source material: attention as a commons, commons and mutualism (Ostrom, Bollier, the P2P Foundation), the metacrisis debate (including its critics), principle-based organisations, neurophenomenology, the contemplative science of deep states, offline community forms, facilitation patterns.
+- **[concept/](./concept)** — living documents on the emerging form: a "quasi-order" in Viktor's phrasing — shared principles, shared practices, a commons — with Buddhist-philosophical grounding translated into contemporary language.
 
 ## Attention Commons
 
@@ -23,9 +21,9 @@ The repo is a monorepo with two tracks:
 
 `Culture of Attention` is the outward-facing movement and educational frame. `Attention Commons` is the underlying philosophy, licensing/attribution question, and civic commons frame.
 
-## Origin
+## Origin and development
 
-Seeded from a conversation between Artem Zhiganov and Viktor Shiryaev on 20 April 2026. What was actually said — threads, frames, references, commitments — is in **[docs/origin.md](./docs/origin.md)**.
+Seeded from a conversation between Artem Zhiganov and Viktor Shiryaev on 20 April 2026 — what was actually said is in **[docs/origin.md](./docs/origin.md)**. How the seed sharpened into Attention Commons / Culture of Attention over the following month is in **[docs/development-log.md](./docs/development-log.md)**.
 
 ## Status
 
