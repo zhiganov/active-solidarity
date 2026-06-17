@@ -11,6 +11,7 @@ Notes and source material feeding the concept track. Organised by theme; each to
   - *Layered framing* — commons at the cultural/institutional level (governable) vs. attention-as-*ground/birthright* at the existential level (inexhaustible, only recognisable). "Commons can be governed. Ground can only be recognised."
 - **Monitoring commons as collective interoception** — a group's capacity to notice the quality of its own shared attention and course-correct before drift becomes capture (not surveillance).
 - **The AI angle** — "Attention Is All You Need" ([arXiv:1706.03762](https://arxiv.org/abs/1706.03762)) as a touchstone; "Homo Agenticus" (Rohit Krishnan) and the idea of an *agentic commons* — proliferating AI agents each demanding a share of the same finite attention.
+- **Broad listening as a constructive counterpoint** — Plurality's AI-augmentation answer to the *same* attention-scarcity diagnosis: AI as listening infrastructure rather than another attention-claimant. Lands in the collective·exterior·everyday void; held as a hypothesis (who governs the synthesis model?). See [plurality-broad-listening.md](./plurality-broad-listening.md).
 
 ## Commons and mutualism
 
