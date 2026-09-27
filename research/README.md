@@ -79,7 +79,7 @@ Early-20th-century quasi-Buddhist communities — not monastic, not sect-bound, 
 
 - **Rufus Pollock** — Second Renaissance, Life Itself, Open Knowledge Foundation; Newspeak House alumnus ~7 years before Artem. ["Scaling up solidarity, scaling down systems"](https://cultural-evolution-paradigmatic-change-rufuspollock.flowershow.me/cultural-evolution-paradigmatic-change.html) — solidarity at planetary scale *and* reduced systemic complexity, a worldview holding both global and local. This is where "active solidarity" now lives.
 - **Ken Wilber** — integral theory; "everyone is right about something" as a usable heuristic. The individual/collective × interior/exterior quadrants underlie the strategic map below.
-- **Ken McLeod / Unfettered Mind** — Vajrayana teacher whose whole body of work is [CC-licensed](https://unfetteredmind.org/first-steps/) (attribute, don't alter, don't profit) — a live example of a contemplative knowledge commons.
+- **Ken McLeod / Unfettered Mind** — Vajrayana teacher whose whole body of work is [CC-licensed](https://unfetteredmind.org/about-the-website/) (attribute, don't alter, don't profit) — a live example of a contemplative knowledge commons.
 - **Jonathan Haidt** — scientist and public intellectual on attention, youth, and social media; 2026 NYU commencement address. Noted as a potential fellow-traveller. **Daniel Schmachtenberger** (massive coordination failure; Second Renaissance) and **Iain McGilchrist** remain background thinkers; **Tristan Harris** noted but held at arm's length.
 
 ## Strategy, futures, and frameworks
