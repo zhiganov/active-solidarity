@@ -69,6 +69,13 @@ Early-20th-century quasi-Buddhist communities — not monastic, not sect-bound, 
 - **Plum Village** — Thich Nhat Hanh's community in France.
 - **Rufus Pollock / Second Renaissance / Life Itself** — Pollock's coliving in France; his personal site (separate from these projects) covers his Commons / Big Data / AI work more directly.
 
+## Viktor's own public work
+
+Read 2026-09-28 alongside 15 organisation links processed for the wiki (extraction in the wiki repo, `docs/research/2026-09-28-organisations.md`). Kept here, not on the public wiki, because it is Viktor's own project material.
+
+- **Active Presence / Деятельное присутствие** — [activepresence.training](https://activepresence.training/), now redirecting to cultureofattention.org (the rebrand to Culture of Attention). Defines the project as research, training and teaching of "skilful engagement with the present", mediated by attention, perception, awareness, experience, attitude and bodily expression, understood as trainable skills ("a good life is a skill"). Structure: three groups of skills applied to three sensory modalities for three types of task. First programme: mindfulness training based on Shinzen Young's methods. **Seven principles:** applicability, transparency (show how and why methods work), scientific grounding, contemporaneity (traditions valued as systems of preserving and transmitting knowledge, but not preferred just because they are traditional), integrativeness (Wilber's Integral Theory, Shinzen Young's Unified Mindfulness, Paul Linden's Being In Movement), full spectrum (from stress reduction to existential questions), and care (trauma-informed, responsible, free choice, individual and collective good).
+- **Viktor's Substack** — [victorshiryaev.substack.com](https://victorshiryaev.substack.com/archive) ("Деятельное присутствие в рассылке"), 99 issues; latest #99, 2025-11-04 (new recordings, reflections on a change of career, an online programme and an offline retreat). Recent themes in titles: predictive processing (#89, #98), pseudo-spirituality and the EEG of enlightenment (#98), the dharma of money (#98), "twenty elements of happiness" (#96), a Buddhist chatbot (#95), AI meditations (#88), *Marvelous Gates* (#92). Not yet read in full.
+
 ## Facilitation patterns
 
 - **Climate Fresk** — open-source climate workshop; anyone can download and print the materials; free sessions run by certified facilitators worldwide; 2–3 hours of collaborative card-laying around a table. Reference for the *kit* form.
